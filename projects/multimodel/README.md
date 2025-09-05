@@ -103,4 +103,4 @@ python src/main.py
 ## ☁️ Запуск в Colab
 Можно открыть проект прямо в Google Colab по кнопке:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AAA11A/Simter_projects/blob/main/projects/multimodel/src/main.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AAA11A/Simter_projects/blob/main/projects/multimodel/main.ipynb)
