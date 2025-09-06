@@ -2,6 +2,10 @@
 from __future__ import annotations
 from datetime import datetime
 from typing import Optional, List, Dict
+import os
+from src.usage_guard import is_allowed
+import os
+from src.usage_guard import is_allowed
 
 from IPython.display import display, HTML
 import ipywidgets as W
